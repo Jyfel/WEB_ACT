@@ -44,12 +44,12 @@ li a:hover {
 
     height: 100vh;
     background-image: linear-gradient(to bottom right, rgb(30, 0, 111) 60%, rgb(20, 0, 79) 50%);
-    height: 890px;
+    height: 55.625em;
 }
 
 .flo {
-    margin-top: 100px;
-    margin-right: 300px;
+    margin-top: 6.25em;
+    margin-right: 18.75em;
     float: right;
     width: 600px;
     color: aliceblue;
