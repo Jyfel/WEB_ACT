@@ -1,0 +1,115 @@
+.box {
+    border: 8px solid;
+    border-color: aliceblue;
+    margin-left: 29%;
+    margin-right: 30%;
+    margin-top: 3%;
+    padding: 30px;
+    background-color: gray;
+    width: 800px;
+}
+
+body {
+    background-color: black;
+}
+h2 {
+    margin: 10px;
+}
+nav {
+    list-style-type: none;
+    margin: 10px;
+    padding: 1px;
+    overflow: hidden;
+    background-color: rgba(0, 0, 255, 0);
+    border-radius: 100px;
+    border: solid;
+    border-color: white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 20px;
+    margin: 15px;
+    text-decoration: none;
+    font-size: large;
+}
+li a:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    color: rgb(33, 0, 110);
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+
+a:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    color: rgb(33, 0, 110);
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+
+footer {
+    bottom: 0;
+    display: flex;
+    width: 80%;
+    margin-left: 300px;
+}
+
+h3 {
+    float: right;
+    padding-left: 40%;
+    color: white;
+}
+
+#big{
+    font-size: 20px;
+    width: 200px;
+    color: white;
+}
+a{
+
+    margin: 5px;
+    padding: 0px 10px;
+    color: rgb(100, 227, 255);
+    font-size: 50px;
+    width: fit-content;
+}
+label a{
+    margin: 20px;
+    float: left;
+    font-size: 30px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+div input{
+    height:30px ;
+    width:fit-content;
+    text-align: center;
+    border-radius: 20px;
+    padding: 0px 35px;
+    margin: 10px;
+}
+
+div > form > select {
+    height:30px ;
+    width:fit-content;
+    text-align: center;
+    border-radius: 20px;
+    padding: 0px 35px;
+    margin: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+label{
+    margin-left: 15px;
+    font-size: 20px;
+}
