@@ -75,7 +75,7 @@ a:hover {
 
 footer {
     position: absolute;
-    bottom: 4.8vw;
+    bottom: 0;
     display: flex;
     width: 80%;
 }
